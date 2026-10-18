@@ -77,4 +77,5 @@ Els formularis són part de la interfície del projecte; no hi ha cap servei de 
   Fet amb ❤️ per **Nena & Júlia** · *El futbol també és nostre.*
 </div>
 
+
 URL firebase Hosting: https://projecte-1-132c8.web.app/
